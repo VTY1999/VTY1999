@@ -3,7 +3,7 @@
 ## I am a full-time student at Microverse, learning Full-stack web Development.
 
 - 🔭 I’m currently working on Improving my web development skills.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on any project.
 - 💬 Ask me about anything
 - 📫 How to reach me: verissimotoyin50@gmail.com
